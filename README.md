@@ -1,3 +1,3 @@
 Git Tutorial 
 Erika Vasquez-Rivas
-Uchicago Student Resource Guida
+Uchicago Student Resource Guide
